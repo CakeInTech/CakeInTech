@@ -6,7 +6,7 @@ I'm Mohamed Abdulhakim:smirk:, I'm on my journey to become a software developer 
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently Studying at Microverse As Micronout.
-- 🤔 I'n trying become a Great Developer.
+- 🤔 I'm trying to become a Great Developer.
 - 📫 How to reach me: Abdulhakimm280@gmail.com.
 - 😄 Pronouns: CAkE, CKAE, CupCAkE, Kae.
 - ⚡ Fun fact: I play games and go to the GYM very often.
