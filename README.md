@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React/Redux**
 
 - 👨‍💻 All of my projects are available at [Here.](https://mohamedck.github.io/My-Portfolio-Website/)
 
