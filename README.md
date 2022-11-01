@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohamedck0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedck0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-abdulhakim-2868521b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-abdulhakim-2868521b6/" height="30" width="40" /></a>
+<a href="https://twitter.com/mohamedck0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedck0" height="30" width="40" /></a><style>.libutton { display: flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; outline: none; text-decoration: none !important; color: #ffffff !important; width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: "SF Pro Text", Helvetica, sans-serif; } </style>
+<a class="libutton" href="http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mohamed-abdulhakim-2868521b6" target="_black">Follow on LinkedIn</a>
 </p>
 
 
