@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Ethiopia</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedck&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedck" /> </p>
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://mohamedck.github.io/My-Portfolio-Website/](https://mohamedck.github.io/My-Portfolio-Website/)
 
