@@ -1,3 +1,4 @@
+# 💫 About Me:
 <h3 align="left">🔭 I’m currently working on Ruby Projects<br>👯 I’m looking to collaborate on React Projects<br>🌱 I’m currently learning Ruby<br>💬 Ask me about Tech<br>⚡ Fun fact I enjoy watching Anime</h3>
 
 ###
@@ -58,5 +59,5 @@
 
 <img src="https://raw.githubusercontent.com/MohamedCK/MohamedCK/blob/output/snake.svg" alt="Snake animation" />
 
-###
-Profile Readme Generator
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
