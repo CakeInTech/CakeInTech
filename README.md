@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm CAkE</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedck&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedck" /> </p>
+<h1 align="center">Hi 👋, I'm CAkE</h1> <p align="left"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=ECBEF0&width=435&lines=Nice+to+meet+you...;Front-end+developer;Always+learning+new+things" alt="Typing SVG" /></a>
 
 # 💫 About Me:
+ <img src="https://komarev.com/ghpvc/?username=mohamedck&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedck" /> </p>
+
 🔭 I’m currently working on Ruby Projects<br>👯 I’m looking to collaborate on React related Projects<br>🌱 I’m currently learning Ruby <br>💬 Ask me about React and redux <br>⚡ Fun fact I watch anime in my off time
+
 
 
 ## 🌐 Socials:
