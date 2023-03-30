@@ -4,7 +4,7 @@
 # 💫 About Me:
  <img src="https://komarev.com/ghpvc/?username=mohamedck&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedck" /> </p>
 
-🔭 I’m currently working on ROR Projects<br>👯 I’m looking to collaborate on React related Projects<br>🌱 I’m currently learning Ruby <br>💬 Ask me about React and redux <br>⚡ Fun fact I watch anime in my off time
+🔭 I’m currently working on ROR Projects<br>👯 I’m looking to collaborate on Fullstack Rails Projects<br>🌱 I’m currently learning Ruby on Rails <br>💬 Ask me about React and redux <br>⚡ Fun fact I watch anime in my off time
 
 
 
