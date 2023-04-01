@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm CAkE</h1> <p align="left"> 
+<h1 align="center">Hi 👋, I'm Mohamed</h1> <p align="left"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=ECBEF0&width=435&lines=Nice+to+meet+you...;Front-end+developer;Always+learning+new+things" alt="Typing SVG" /></a>
 
 # 💫 About Me:
  <img src="https://komarev.com/ghpvc/?username=mohamedck&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedck" /> </p>
 
 ### 🔭 I’m currently working on:
-Ruby on Rails projects to build scalable and user-friendly web applications.
+   - Ruby on Rails projects to build scalable and user-friendly web applications.
 
 ### 👯 I’m looking to collaborate on:
-Projects that involve web development using the latest technologies.
+   - Projects that involve web development using the latest technologies.
 
 ### 🤝 I’m looking for help with:
-Improving my knowledge and skills in advanced web development.
+   - Improving my knowledge and skills in advanced web development.
 
 ### 🌱 I’m currently learning:
-React Native and exploring the world of mobile app development.
+   - React Native and exploring the world of mobile app development.
 
 ### 💬 Ask me about:
-My experience with full-stack web development using MERN stack, Ruby on Rails, and front-end technologies like React and Redux.
+   - My experience with full-stack web development using MERN stack, Ruby on Rails, and front-end technologies like React and Redux.
 
 ### ⚡ Fun fact:
-I'm a passionate baker, and I love experimenting with new recipes in my free time.
+   - I'm a passionate baker, and I love experimenting with new recipes in my free time.
 
 
 
