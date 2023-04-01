@@ -4,7 +4,23 @@
 # 💫 About Me:
  <img src="https://komarev.com/ghpvc/?username=mohamedck&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedck" /> </p>
 
-🔭 I’m currently working on ROR Projects<br>👯 I’m looking to collaborate on Fullstack Rails Projects<br>🌱 I’m currently learning Ruby on Rails <br>💬 Ask me about React and redux <br>⚡ Fun fact I watch anime in my off time
+### 🔭 I’m currently working on:
+Ruby on Rails projects to build scalable and user-friendly web applications.
+
+### 👯 I’m looking to collaborate on:
+Projects that involve web development using the latest technologies.
+
+### 🤝 I’m looking for help with:
+Improving my knowledge and skills in advanced web development.
+
+### 🌱 I’m currently learning:
+React Native and exploring the world of mobile app development.
+
+### 💬 Ask me about:
+My experience with full-stack web development using MERN stack, Ruby on Rails, and front-end technologies like React and Redux.
+
+### ⚡ Fun fact:
+I'm a passionate baker, and I love experimenting with new recipes in my free time.
 
 
 
