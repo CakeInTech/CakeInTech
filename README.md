@@ -4,7 +4,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mohamedck&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedck" /></p>
 
-- 🔭 I’m currently working on [my advanced portfolio project](https://github.com/CakeInTech/rails-advanced-portfolio)
+- 🔭 I’m currently working on [My Portfolio site](https://github.com/CakeInTech/rails-advanced-portfolio)
 
 - 🌱 I am deepening my understanding of **Ruby on Rails by exploring its advanced mechanisms**
 
