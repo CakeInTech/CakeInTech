@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/CakeInTech/CakeInTech/main/Full%20stack.png)](https://mohamedcake.com)
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate FullStack developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0" >
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mohamedck&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedck" /></p>
