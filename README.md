@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=cakeintech&theme=dark&hide_border=true" alt="GitHub Streak" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CakeInTech&theme=gruvbox-duo&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
