@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/CakeInTech/CakeInTech/main/Full%20stack.png" alt="header" />
 </p>
 
-<h1 align="center">🎮 Mohamed Ibrahim (cakeintech) 🇪🇹| FullStack Dev on Hard Mode</h1>
+<h1 align="center">🎮 Mohamed Ibrahim 🇪🇹 (cakeintech)| FullStack Dev on Hard Mode</h1>
 
 <p align="center">
   🚀 Leveling up with <b>Next.js</b> <br/>
