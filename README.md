@@ -128,4 +128,3 @@ Basically: I build SaaS products that keep small/medium businesses running smoot
 <p align="center">
   🕹️ <i>"Code. Deploy. Respawn. Repeat."</i>
 </p>
-I’m a software developer from Ethiopia who likes building things that actually solve problems. I’ve worked on stuff for hotels, property managers, cafés, logistics companies, and recently hydrology consultants. Most of my projects start because someone’s workflow is a mess and they need something that just works without drama.
