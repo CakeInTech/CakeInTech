@@ -101,6 +101,7 @@ Basically: I build SaaS products that keep small/medium businesses running smoot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cakeintech&show_icons=true&theme=radical" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakeintech&layout=compact&theme=radical" alt="Top Languages" />
+
 </p>
 
 ---
@@ -120,8 +121,10 @@ Basically: I build SaaS products that keep small/medium businesses running smoot
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/cakeintech/count.svg" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=CakeInTech&theme=radical" alt="GitHub Streak" /></a>
 </p>
+
+
 
 ---
 
